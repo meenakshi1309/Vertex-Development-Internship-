@@ -1,4 +1,3 @@
-# Vertex-Development-Internship-
 # 🎨 Vertex Development Internship — UI/UX Design
 
 ## 📌 Overview
